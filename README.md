@@ -2,7 +2,7 @@
 iptv 播放器, 直播源
 播放器支持手机,Pad和Android TV
 
-![screenshot](screenshot_1.jpg)
+![screenshot](https://github.com/kapaqi/iptv/blob/main/screenshot_1.png)
 
 
 # 项目说明
