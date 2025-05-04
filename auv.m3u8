@@ -3,23 +3,23 @@
 
 # BRTV
 #EXTINF:-1 group-title="北京" tvg-name="北京卫视4K超高清" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png",北京卫视4K超高清
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1745841626&sign=32355945331bf9e22e4cd48caed8af20
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1746342014&sign=ade12b951bec5dd0408a81e1e8364ea4
 #EXTINF:-1 group-title="北京" tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png",北京卫视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1745841622&sign=5d965dd7f5655c5e3fe192836884642f
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1746342011&sign=9b2e01d590bab1408bac48d7b7343cbf
 #EXTINF:-1 group-title="北京" tvg-name="北京新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png",北京新闻
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1745841625&sign=0c7107639e29a59b70d1c47bf8f7e773
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1746342013&sign=e3d4eb73ababfa702b36ce651d6e2a97
 #EXTINF:-1 group-title="北京" tvg-name="北京影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京影视.png",北京影视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1745841623&sign=c1e817ff8c9c5b314841292c0d901e70
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1746342012&sign=81338a9b7518d35504ee5dd685b723bf
 #EXTINF:-1 group-title="北京" tvg-name="北京生活" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京生活.png",北京生活
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1745841625&sign=40cf6a2be2fb9d3706dc4f0354d0182e
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1746342013&sign=7951282d6ea16c92c47861f535b48dd2
 #EXTINF:-1 group-title="北京" tvg-name="北京文艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京文艺.png",北京文艺
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1745841622&sign=3af156d2b859b6db7600c454b03671d5
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1746342011&sign=e6eb4affde0e4f4212fe13ca54f9bb8e
 #EXTINF:-1 group-title="北京" tvg-name="北京财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京财经.png",北京财经
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1745841624&sign=53324753b15fc119fa2b7d898a030a58
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1746342013&sign=a2683354efaf63e88caf48093ce04972
 #EXTINF:-1 group-title="北京" tvg-name="北京纪实科教" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京纪实科教.png",北京纪实科教
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1745841623&sign=c8e3bbae102d7b4b79e176f3c80ec120
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1746342012&sign=0d073efedc7a9afecca6cc17133e564b
 #EXTINF:-1 group-title="北京" tvg-name="北京卡酷少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卡酷少儿.png",北京卡酷少儿
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1745841626&sign=0c5f20610946912b8655ed2c80920b78
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1746342014&sign=a7b9e55e0e8f47c7d51d43a1c63aff7c
 
 #EXTINF:-1 group-title="北京" tvg-name="北京体育休闲1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京体育休闲.png",北京体育休闲1
 http://mingjd.cn:7077/rtp/239.3.1.243:8000
@@ -291,23 +291,23 @@ http://39.164.180.36:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=
 #EXTINF:-1 tvg-name="湖南卫视" tvg-id="湖南卫视" tvg-logo="" group-title="卫视1", 湖南卫视
 http://39.164.180.36:19901/tsfile/live/0128_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="江苏卫视" tvg-id="江苏卫视" tvg-logo="" group-title="卫视1", 江苏卫视
-http://39.164.180.36:19901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+http://goo.bkpcp.top/mg/jsws
 #EXTINF:-1 tvg-name="河北卫视" tvg-id="河北卫视" tvg-logo="" group-title="卫视1", 河北卫视
-http://39.164.180.36:19901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+http://goo.bkpcp.top/mg/hbws
 #EXTINF:-1 tvg-name="安徽卫视" tvg-id="安徽卫视" tvg-logo="" group-title="卫视1", 安徽卫视
 http://39.164.180.36:19901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="重庆卫视" tvg-id="重庆卫视" tvg-logo="" group-title="卫视1", 重庆卫视
-http://39.164.180.36:19901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+http://goo.bkpcp.top/mg/cqws
 #EXTINF:-1 tvg-name="东方卫视" tvg-id="东方卫视" tvg-logo="" group-title="卫视1", 东方卫视
-http://39.164.180.36:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
+http://goo.bkpcp.top/mg/dfws
 #EXTINF:-1 tvg-name="东南卫视" tvg-id="东南卫视" tvg-logo="" group-title="卫视1", 东南卫视
 http://39.164.180.36:19901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-id="甘肃卫视" tvg-logo="" group-title="卫视1", 甘肃卫视
 http://39.164.180.36:19901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="广东卫视" tvg-id="广东卫视" tvg-logo="" group-title="卫视1", 广东卫视
-http://39.164.180.36:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+http://goo.bkpcp.top/mg/gdws
 #EXTINF:-1 tvg-name="广西卫视" tvg-id="广西卫视" tvg-logo="" group-title="卫视1", 广西卫视
-http://39.164.180.36:19901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+http://goo.bkpcp.top/mg/gxws
 #EXTINF:-1 tvg-name="贵州卫视" tvg-id="贵州卫视" tvg-logo="" group-title="卫视1", 贵州卫视
 http://39.164.180.36:19901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-id="黑龙江卫视" tvg-logo="" group-title="卫视1", 黑龙江卫视
