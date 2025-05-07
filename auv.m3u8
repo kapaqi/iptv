@@ -25,6 +25,8 @@ https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=17
 http://mingjd.cn:7077/rtp/239.3.1.243:8000
 #EXTINF:-1 group-title="北京" tvg-name="北京体育休闲2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京体育休闲.png",北京体育休闲2
 http://sk7628.top:8013/rtp/239.3.1.243:8000
+#EXTINF:-1 group-title="北京" tvg-name="北京体育休闲3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京体育休闲.png",北京体育休闲3
+rtp://239.3.1.243:8000
 
 # cctv
 #EXTINF:-1 group-title="央视1" tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" t-time="992" v-w="0" v-h="0", CCTV-1
