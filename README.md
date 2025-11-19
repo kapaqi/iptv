@@ -2,6 +2,10 @@
 iptv 播放器, 直播源
 播放器支持手机,Pad和Android TV
 
+可以设置自定义m3u菜单适配自己的节目单
+
+可以设置udproxy地址来适应组播转单播的iptv环境
+
 ![screenshot](https://github.com/kapaqi/iptv/blob/main/screenshot_1.png)
 
 ![screenshot](https://github.com/kapaqi/iptv/blob/main/screenshot_2.png)
