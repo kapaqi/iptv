@@ -3,23 +3,23 @@
 
 # BRTV
 #EXTINF:-1 group-title="北京" tvg-name="北京卫视4K超高清" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png",北京卫视4K超高清
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1763545815&sign=1d6b984255d46e87d90737f1eba8a580
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1763548815&sign=8b753129006380c9377d459385703c75
 #EXTINF:-1 group-title="北京" tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png",北京卫视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1763545807&sign=c7ae8ff2265bc004c99b5daee56d0ca1
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1763548805&sign=96d64edc8e226568de140b73c6d5d00a
 #EXTINF:-1 group-title="北京" tvg-name="北京新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png",北京新闻
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1763545813&sign=f78e33b76f97ba12d56271b37c7169de
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1763548813&sign=2de3b2977e230b69b9fc290a8663f5c1
 #EXTINF:-1 group-title="北京" tvg-name="北京影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京影视.png",北京影视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1763545810&sign=56aa648335943c19160a9d5479f9c41f
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1763548810&sign=4e3aca48c5bdf643ce96bf98b1c9da94
 #EXTINF:-1 group-title="北京" tvg-name="北京生活" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京生活.png",北京生活
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1763545812&sign=b1dd2797ce575e0b8d9c87e505be8123
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1763548812&sign=a71a59c811eb3e3c722da075e6831ef3
 #EXTINF:-1 group-title="北京" tvg-name="北京文艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京文艺.png",北京文艺
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1763545808&sign=48dc0ab1ae7022bb46b4c467a0c7340b
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1763548807&sign=e8456dad2f6b4a60d96a2dd9736038d5
 #EXTINF:-1 group-title="北京" tvg-name="北京财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京财经.png",北京财经
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1763545811&sign=abd8337d4134e3461ac42a080fa4595c
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1763548811&sign=67e9c026157b88feeae30333d683e33c
 #EXTINF:-1 group-title="北京" tvg-name="北京纪实科教" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京纪实科教.png",北京纪实科教
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1763545809&sign=abe31e2e243cd44e25938c4f6f5f94a1
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1763548809&sign=f9c671fce5fd63f2f6396bc6dfa78818
 #EXTINF:-1 group-title="北京" tvg-name="北京卡酷少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卡酷少儿.png",北京卡酷少儿
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1763545814&sign=e3af81dc921766a5d06ab098beb9e0fc
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1763548814&sign=d76b51c8cf89e254d47ad0084c56a469
 
 #EXTINF:-1 group-title="北京" tvg-name="北京体育休闲1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京体育休闲.png",北京体育休闲1
 http://mingjd.cn:7077/rtp/239.3.1.243:8000
@@ -69,12 +69,28 @@ http://218.13.14.6:60050/tsfile/live/1017_1.m3u8
 https://www.goodiptv.club/douyu/260322
 #EXTINF:-1 tvg-name="孤独的美食家3" tvg-id="孤独的美食家3" tvg-logo="" group-title="美食", 孤独的美食家3
 https://www.goodiptv.club/douyu/953193
-#EXTINF:-1 tvg-name="美食1" tvg-id="美食1" tvg-logo="" group-title="美食", 美食1
+#EXTINF:-1 tvg-name="孤独的美食家4" tvg-id="孤独的美食家4" tvg-logo="" group-title="美食", 孤独的美食家4
+http://live.iill.top/douyu.php?id=260322
+
+#EXTINF:-1 tvg-name="美食台1" tvg-id="美食台1" tvg-logo="" group-title="美食", 美食台1
 https://www.goodiptv.club/douyu/3091151
-#EXTINF:-1 tvg-name="美食小舍" tvg-id="美食小舍" tvg-logo="" group-title="美食", 美食小舍
+#EXTINF:-1 tvg-name="美食台2" tvg-id="美食台2" tvg-logo="" group-title="美食", 美食台2
+http://live.iill.top/douyu.php?id=3091151
+
+#EXTINF:-1 tvg-name="美食小舍1" tvg-id="美食小舍1" tvg-logo="" group-title="美食", 美食小舍1
 https://www.goodiptv.club/douyu/9540821
-#EXTINF:-1 tvg-name="与光料理" tvg-id="与光料理" tvg-logo="" group-title="美食", 与光料理
+#EXTINF:-1 tvg-name="美食小舍2" tvg-id="美食小舍2" tvg-logo="" group-title="美食", 美食小舍2
+http://live.iill.top/douyu.php?id=9540821
+
+#EXTINF:-1 tvg-name="与光料理1" tvg-id="与光料理1" tvg-logo="" group-title="美食", 与光料理1
 https://www.goodiptv.club/douyu/9665266
+#EXTINF:-1 tvg-name="与光料理2" tvg-id="与光料理2" tvg-logo="" group-title="美食", 与光料理2
+http://live.iill.top/douyu.php?id=9665266
+
+#EXTINF:-1 tvg-name="日食记1" tvg-id="日食记1" tvg-logo="" group-title="美食", 日食记1
+https://www.goodiptv.club/douyu/2206405
+#EXTINF:-1 tvg-name="日食记2" tvg-id="日食记2" tvg-logo="" group-title="美食", 日食记2
+http://live.iill.top/douyu.php?id=2206405
 
 # mov
 #EXTINF:-1 tvg-name="荒野求生" tvg-id="荒野求生" tvg-logo="" group-title="纪录片", 荒野求生
@@ -185,12 +201,6 @@ http://mingjd.cn:7077/rtp/239.3.1.123:8164
 http://mingjd.cn:7077/rtp/239.3.1.141:1234
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视2",河北卫视[高清]
 http://mingjd.cn:7077/rtp/239.3.1.148:8072
-
-# test
-#EXTINF:-1 tvg-id="TEST1" tvg-name="TEST1" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="TEST",河北卫视[高清]
-http://auvlive.test.upcdn.net/iptv/2025/out.ts
-#EXTINF:-1 tvg-id="TEST2" tvg-name="TEST2" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="TEST",河北卫视[高清]
-http://auvlive.test.upcdn.net/iptv/2025/out_no_sei.ts
 
 
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
