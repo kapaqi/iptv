@@ -4,6 +4,8 @@ iptv 播放器, 直播源
 
 ![screenshot](https://github.com/kapaqi/iptv/blob/main/screenshot_1.png)
 
+![screenshot](https://github.com/kapaqi/iptv/blob/main/screenshot_2.png)
+
 
 # 项目说明
 所有播放源均收集于互联网，仅供学习研究使用，禁止任何商业用途，请于24小时内删除，否则后果自负！
