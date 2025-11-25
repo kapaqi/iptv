@@ -1,6 +1,8 @@
 # iptv player
 iptv 播放器, 直播源
+
 支持Android系统(手机,平板,TV)
+
 支持Macos系统(Apple arm64/Intel x86_64)
 
 
